@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Guion de grabación del taller EC2, paso a paso (ruta manual, por SSH).
+# Plan B de grabación (todo por terminal con AWS CLI). Guion principal: docs/GUION-GRABACION.md
 # Uso:  bash scripts/grabacion.sh <paso>
 #   1        Parte 1: Security Group (22+80), llave, instancia, estado Running, IP pública
 #   2        Parte 2: SSH, instalar Apache+PHP, iniciar y habilitar al arranque

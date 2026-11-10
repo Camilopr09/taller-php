@@ -158,6 +158,8 @@ Si cambias `web/*.php`, regenera el user data: `bash scripts/build-user-data.sh`
 
 ## Guion sugerido para el video (5–8 min)
 
+> **Guion detallado escena por escena (consola web + terminal, con narradores):** [docs/GUION-GRABACION.md](docs/GUION-GRABACION.md)
+
 1. Presentación: nombre, materia, objetivo (10 s).
 2. Consola EC2 → Launch instance: nombre, AMI AL2023, tipo, key pair, Security Group con 22 y 80 (mostrar las reglas).
 3. Instancia en **Running**; mostrar Instance ID e IP pública.
