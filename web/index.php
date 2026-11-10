@@ -8,7 +8,7 @@ declare(strict_types=1);
  *
  * >>> CAMBIA ESTE VALOR POR TU NOMBRE ANTES DE GRABAR EL VIDEO <<<
  */
-const STUDENT_NAME = '[Tu nombre aquí]';
+const STUDENT_NAME = 'Hernán Arias · Camilo Peñaranda · Jeilyn García · Isac Villafañe · José Díaz';
 
 header('X-Content-Type-Options: nosniff');
 header('Cache-Control: no-store');
@@ -113,7 +113,7 @@ $I18N = [
         'copied' => '¡Copiado!',
         'json_link' => 'Ver JSON',
         'footer' => 'Workshop – EC2 Practice · Universidad Autónoma del Caribe',
-        'student' => 'Estudiante',
+        'student' => 'Integrantes',
         'toggle' => 'English',
         'toggle_lang' => 'en',
     ],
@@ -166,7 +166,7 @@ $I18N = [
         'copied' => 'Copied!',
         'json_link' => 'View JSON',
         'footer' => 'Workshop – EC2 Practice · Universidad Autónoma del Caribe',
-        'student' => 'Student',
+        'student' => 'Team members',
         'toggle' => 'Español',
         'toggle_lang' => 'es',
     ],
